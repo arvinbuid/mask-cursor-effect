@@ -24,15 +24,15 @@
     }
 
     @media (max-width: 480px) {
-      font-size: 36px;
-      line-height: 42px;
+      font-size: 26px;
+      line-height: 32px;
     }
 
     p {
       width: 860px;
       padding: 40px;
-      letter-spacing: none;
     }
+
     span {
       color: rgba(255, 102, 63, 1);
     }

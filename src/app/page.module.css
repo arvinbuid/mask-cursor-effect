@@ -13,10 +13,24 @@
     line-height: 66px;
     cursor: default;
 
+    @media (max-width: 834px) {
+      font-size: 54px;
+      line-height: 60px;
+    }
+
+    @media (max-width: 768px) {
+      font-size: 44px;
+      line-height: 50px;
+    }
+
+    @media (max-width: 480px) {
+      font-size: 36px;
+      line-height: 42px;
+    }
+
     p {
       width: 860px;
-      padding: 30px;
-      font-weight: 700;
+      padding: 40px;
       letter-spacing: none;
     }
     span {

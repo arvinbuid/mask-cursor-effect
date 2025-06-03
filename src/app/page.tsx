@@ -9,7 +9,7 @@ export default function Mask() {
   const [isHovered, setIsHovered] = useState(false);
   const { x, y } = useMousePosition();
 
-  const size = isHovered ? 400 : 40;
+  const size = isHovered ? 300 : 40;
 
   if (x === null || y === null) return null;
 

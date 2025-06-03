@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Avant Garde Book BT";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../../public/fonts/AVGARDD_2.woff") format("woff"); // Customize font
+}
+
+body {
+  margin: 0;
+  background-color: #0f0f0f;
+  font-family: "Avant Garde Book BT";
+}

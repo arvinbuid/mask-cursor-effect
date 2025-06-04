@@ -9,7 +9,7 @@ A custom cursor with a mask hover effect revealing the text underneath. Made wit
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/arvinbuid/curved-menu.git
+git clone https://github.com/arvinbuid/mask-cursor-effect.git
 ```
 
 ### Install Dependencies

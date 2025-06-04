@@ -1,12 +1,16 @@
 # Mask Cursor Effect
 
-WIP web animation project.
+A custom cursor with a mask hover effect revealing the text underneath. Made with Nextjs and Motion (prev. Framer Motion). Inspired from https://minhpham.design/
 
-## Features
-
-- WIP
+![Mask Cursor Effect](public/assets/mask-cursor-effect.gif)
 
 ## Usage
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/arvinbuid/curved-menu.git
+```
 
 ### Install Dependencies
 
